@@ -1,0 +1,11 @@
+/Users/clementciron/Desktop/my-rust-playground/raytracer2D/target/debug/deps/bevy_input-3127fcb6f8dca48d.rmeta: /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/lib.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/axis.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/gamepad.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/input.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/keyboard.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/mouse.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/touch.rs
+
+/Users/clementciron/Desktop/my-rust-playground/raytracer2D/target/debug/deps/bevy_input-3127fcb6f8dca48d.d: /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/lib.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/axis.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/gamepad.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/input.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/keyboard.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/mouse.rs /Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/touch.rs
+
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/lib.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/axis.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/gamepad.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/input.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/keyboard.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/mouse.rs:
+/Users/clementciron/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_input-0.9.1/src/touch.rs:
