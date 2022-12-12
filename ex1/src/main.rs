@@ -10,7 +10,7 @@ fn main() {
     let mut correct = String::new();
     correct.push_str("1");
 
-    let input: String = input_new().msg("Please input your name: ").get();
+    let input: String = input_new().msg("reponse ?: ").get();
 
     if input == correct {
         println!("bravo !");
