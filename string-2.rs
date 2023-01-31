@@ -1,0 +1,19 @@
+// Fix the error with at least two solutions
+fn main() {
+    let s: &str = "hello, world".into();
+    greetings(s)
+}
+
+fn greetings(s: &str) {
+    println!("{}", s)
+}
+
+// Fix the error with at least two solutions
+fn main() {
+    let s: Box<str> = "hello, world".into();
+    greetings(s)
+}
+
+fn greetings(s: Box<str>) {
+    println!("{}", s)
+}
